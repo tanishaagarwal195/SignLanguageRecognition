@@ -124,7 +124,7 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ### 🚀 **Maintainer & Contact**  
-🔗 **GitHub:** [Your GitHub Username](https://github.com/tanishaagarwal195)  
+🔗 **GitHub:** [GitHub Username](https://github.com/tanishaagarwal195)  
 📧 **Email:** tanishaagarwal400@gmail.com 
 
 ---
